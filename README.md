@@ -1,16 +1,16 @@
-# MOBIQ-Dokumentation
+# MOBIQ documentation
 
-Die Produktdokumentation des erfundenen ERP-Herstellers MOBIQ (Musterhaus Software GmbH), Stand **vor** Release 26.4. Sie ist also so veraltet, wie sie es nach dem Release ohne neuraldoc wäre.
+The product documentation of the fictional ERP vendor MOBIQ (Musterhaus Software GmbH), as it stood **before** release 26.4. It is therefore as outdated as it would be after the release without neuraldoc. The documents themselves are in German.
 
-| Ordner | Entspricht | Inhalt |
+| Folder | Corresponds to | Contents |
 |---|---|---|
-| `confluence/` | Confluence Cloud REST v2 | 4 Bereiche, 33 Seiten im Storage-Format; `storage/*.xml` lesbar formatiert, `page_meta.json` mit Labels (Doku-Art) und Anhängen |
-| `dokumente/` | SharePoint / Microsoft Graph | 7 Dateien (Word, Excel, PDF) unter `files/`, `driveItems.json` und der extrahierte Text in `extracted.json` |
+| `confluence/` | Confluence Cloud REST v2 | 4 spaces, 33 pages in storage format; `storage/*.xml` readably formatted, `page_meta.json` with labels (document type) and attachments |
+| `dokumente/` | SharePoint / Microsoft Graph | 7 files (Word, Excel, PDF) under `files/`, `driveItems.json` and the extracted text in `extracted.json` |
 
-Teil des Evaluationsdatensatzes: Code in `mobiq-code`, Datenbank in `mobiq-db`, Generator, Tickets und Lösung in `mobiq`. Nicht von Hand ändern, sondern im Repository `mobiq` neu erzeugen (`node generate.mjs && node publish.mjs`).
+Part of the evaluation dataset: code in [`mobiq-code`](https://github.com/neuraldoc-ai/mobiq-code), database in [`mobiq-db`](https://github.com/neuraldoc-ai/mobiq-db), generator, tickets and solution in [`mobiq`](https://github.com/neuraldoc-ai/mobiq). Do not edit by hand; regenerate in the `mobiq` repository (`node generate.mjs && node publish.mjs`).
 
-Alle Firmen, Personen und Inhalte sind erfunden.
+All companies, people and contents are fictional.
 
-## Lizenz
+## License
 
-MIT, siehe [LICENSE](LICENSE). Gilt für den gesamten MOBIQ-Datensatz.
+MIT, see [LICENSE](LICENSE). It covers the whole MOBIQ dataset.
