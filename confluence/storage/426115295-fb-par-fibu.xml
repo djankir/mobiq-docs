@@ -1,0 +1,85 @@
+<!-- MOBIQFB / Parameter Finanzbuchhaltung (Version 3) -->
+<table data-layout="default">
+<colgroup>
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+</colgroup>
+<tbody>
+<tr>
+<th>
+<p>
+<strong>Parameter</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Bedeutung</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Standard</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Min</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Max</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Einheit</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>FIBU_KONTO_ANZAHLUNG</p>
+</td>
+<td>
+<p>Konto für erhaltene Anzahlungen</p>
+</td>
+<td>
+<p>1718</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Konto (SKR03)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>FIBU_EXPORT_ZEIT</p>
+</td>
+<td>
+<p>Uhrzeit der nächtlichen Übergabe</p>
+</td>
+<td>
+<p>02:00</p>
+</td>
+<td>
+<p>00:00</p>
+</td>
+<td>
+<p>05:00</p>
+</td>
+<td>
+<p>Uhrzeit</p>
+</td>
+</tr>
+</tbody>
+</table>

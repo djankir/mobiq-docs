@@ -1,0 +1,60 @@
+<!-- MOBIQDEV / Datenmodell Auftragsabwicklung (Version 15) -->
+<table data-layout="default">
+<colgroup>
+<col />
+<col />
+<col />
+</colgroup>
+<tbody>
+<tr>
+<th>
+<p>
+<strong>Tabelle</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Inhalt</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Schlüssel</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>kaufvertrag</p>
+</td>
+<td>
+<p>Kopf des Kaufvertrags</p>
+</td>
+<td>
+<p>kv_id</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kv_position</p>
+</td>
+<td>
+<p>Positionen des Kaufvertrags</p>
+</td>
+<td>
+<p>kvp_id, FK kv_id</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tour_stopp</p>
+</td>
+<td>
+<p>Stopp einer Tour</p>
+</td>
+<td>
+<p>stopp_id, FK kv_id</p>
+</td>
+</tr>
+</tbody>
+</table>

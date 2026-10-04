@@ -1,0 +1,23 @@
+<!-- MOBIQDEV / Architektur Gesamtsystem (Version 6) -->
+<ac:structured-macro ac:name="drawio" ac:schema-version="1" ac:macro-id="a1b2c3d4-0013-4e5f-9a0b-000001102947">
+<ac:parameter ac:name="diagramName">mobiq-gesamtsystem</ac:parameter>
+<ac:parameter ac:name="simpleViewer">false</ac:parameter>
+<ac:parameter ac:name="width">
+</ac:parameter>
+<ac:parameter ac:name="zoom">1</ac:parameter>
+<ac:parameter ac:name="pageSize">false</ac:parameter>
+<ac:parameter ac:name="lbox">true</ac:parameter>
+<ac:parameter ac:name="diagramWidth">1081</ac:parameter>
+<ac:parameter ac:name="revision">7</ac:parameter>
+</ac:structured-macro>
+<p>Clients (Desktop, Web, Fahrer-App) sprechen ausschließlich mit dem Anwendungsserver. Hintergrunddienste: tour, druck, fibu-export.</p>
+<p>Rechnungen gelangen ausschließlich über den Dienst fibu-export in die Finanzbuchhaltung.</p>
+<ac:structured-macro ac:name="expand" ac:schema-version="1" ac:macro-id="a1b2c3d4-0014-4e5f-9a0b-000001110866">
+<ac:parameter ac:name="title">Entscheidungen</ac:parameter>
+<ac:rich-text-body>
+<ul>
+<li>ADR-014: Keine direkte DB-Verbindung aus Clients</li>
+<li>ADR-021: Fibu nur über fibu_export, nie direkt</li>
+</ul>
+</ac:rich-text-body>
+</ac:structured-macro>

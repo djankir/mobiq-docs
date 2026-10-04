@@ -1,0 +1,15 @@
+{
+  "results": [
+    {
+      "id": "2441449",
+      "name": "parametertabelle",
+      "prefix": "global"
+    },
+    {
+      "id": "2441450",
+      "name": "kaufvertrag",
+      "prefix": "global"
+    }
+  ],
+  "_links": {}
+}

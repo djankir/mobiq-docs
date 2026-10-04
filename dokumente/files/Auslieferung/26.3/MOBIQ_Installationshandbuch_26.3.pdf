@@ -1,0 +1,104 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 2018 >>
+stream
+0.114 0.306 0.847 rg
+BT /F2 18 Tf 0 g 56 778 Td (MOBIQ Installationshandbuch) Tj ET
+0 g
+BT /F1 10.5 Tf 0 g 56 749.7 Td (Version 26.3 \267 f\374r Administratoren beim Kunden \267 Stand Juli 2026) Tj ET
+BT /F2 13 Tf 0 g 56 723.5250000000001 Td (1 Systemanforderungen) Tj ET
+0.906 0.933 0.984 rg 56 695.4750000000001 483 19.5 re f 0 g
+0.75 G 0.5 w
+56 695.4750000000001 161 19.5 re S
+BT /F2 9 Tf 0 g 60 703.9750000000001 Td (Komponente) Tj ET
+217 695.4750000000001 161 19.5 re S
+BT /F2 9 Tf 0 g 221 703.9750000000001 Td (Mindestens) Tj ET
+378 695.4750000000001 161 19.5 re S
+BT /F2 9 Tf 0 g 382 703.9750000000001 Td (Empfohlen) Tj ET
+0.75 G 0.5 w
+56 675.9750000000001 161 19.5 re S
+BT /F1 9 Tf 0 g 60 684.4750000000001 Td (Datenbank) Tj ET
+217 675.9750000000001 161 19.5 re S
+BT /F1 9 Tf 0 g 221 684.4750000000001 Td (PostgreSQL 15) Tj ET
+378 675.9750000000001 161 19.5 re S
+BT /F1 9 Tf 0 g 382 684.4750000000001 Td (PostgreSQL 16) Tj ET
+0.75 G 0.5 w
+56 644.9750000000001 161 31 re S
+BT /F1 9 Tf 0 g 60 664.9750000000001 Td (Anwendungsserver) Tj ET
+217 644.9750000000001 161 31 re S
+BT /F1 9 Tf 0 g 221 664.9750000000001 Td (4 Kerne, 16 GB RAM je 50) Tj ET
+BT /F1 9 Tf 0 g 221 653.4750000000001 Td (Anwender) Tj ET
+378 644.9750000000001 161 31 re S
+BT /F1 9 Tf 0 g 382 664.9750000000001 Td (8 Kerne, 32 GB RAM) Tj ET
+0.75 G 0.5 w
+56 625.4750000000001 161 19.5 re S
+BT /F1 9 Tf 0 g 60 633.9750000000001 Td (Clients) Tj ET
+217 625.4750000000001 161 19.5 re S
+BT /F1 9 Tf 0 g 221 633.9750000000001 Td (Windows 10 / aktueller Browser) Tj ET
+378 625.4750000000001 161 19.5 re S
+BT /F1 9 Tf 0 g 382 633.9750000000001 Td (Windows 11) Tj ET
+BT /F2 13 Tf 0 g 56 594.4750000000001 Td (2 Erstinstallation) Tj ET
+BT /F1 10.5 Tf 0 g 56 574.9250000000002 Td (F\374hren Sie das Setup auf dem Anwendungsserver aus und folgen Sie dem Assistenten. Die) Tj ET
+BT /F1 10.5 Tf 0 g 56 560.7500000000002 Td (Datenbank wird beim ersten Start angelegt.) Tj ET
+BT /F1 8 Tf 0.45 g 56 28 Td (MOBIQ Installationshandbuch 26.3 \267 Seite 1 von 2) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 1193 >>
+stream
+BT /F2 13 Tf 0 g 56 780 Td (4 Update auf eine neue Version) Tj ET
+BT /F1 10.5 Tf 0 g 60 760.45 Td (\225) Tj ET
+BT /F1 10.5 Tf 0 g 78 760.45 Td (Sichern Sie die Datenbank.) Tj ET
+BT /F1 10.5 Tf 0 g 60 745.75 Td (\225) Tj ET
+BT /F1 10.5 Tf 0 g 78 745.75 Td (Stoppen Sie die Dienste mobiq-app und mobiq-druck.) Tj ET
+BT /F1 10.5 Tf 0 g 60 731.05 Td (\225) Tj ET
+BT /F1 10.5 Tf 0 g 78 731.05 Td (F\374hren Sie das Update-Paket aus. Migrationen laufen automatisch.) Tj ET
+BT /F1 10.5 Tf 0 g 60 716.3499999999999 Td (\225) Tj ET
+BT /F1 10.5 Tf 0 g 78 716.3499999999999 Td (Starten Sie die Dienste und pr\374fen Sie das Protokoll.) Tj ET
+BT /F2 13 Tf 0 g 56 689.6499999999999 Td (4.2 Nach dem Update) Tj ET
+BT /F1 10.5 Tf 0 g 56 670.0999999999999 Td (Pr\374fen Sie unter Administration > Systemstatus, ob alle Dienste laufen. Kundeneigene) Tj ET
+BT /F1 10.5 Tf 0 g 56 655.925 Td (Druckvorlagen \(.ftl\) im Ordner vorlagen/kunde bleiben erhalten.) Tj ET
+1 0.957 0.898 rg 56 622.25 483 23.5 re f 0 g
+BT /F1 10 Tf 0 g 66 635.75 Td (Hinweis: In der MOBIQ Performance Cloud \374bernimmt der Betrieb das Update.) Tj ET
+BT /F1 8 Tf 0.45 g 56 28 Td (MOBIQ Installationshandbuch 26.3 \267 Seite 2 von 2) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Title (MOBIQ Installationshandbuch 26.3) /Author (Kai Brenner) /Creator (Microsoft Word) /CreationDate (D:20260715083000) /ModDate (D:20260715083000) >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000224 00000 n 
+0000000326 00000 n 
+0000002396 00000 n 
+0000002532 00000 n 
+0000003777 00000 n 
+0000003913 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R /Info 9 0 R >>
+startxref
+4085
+%%EOF

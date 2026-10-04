@@ -1,0 +1,15 @@
+{
+  "results": [
+    {
+      "id": "2442006",
+      "name": "anwenderhandbuch",
+      "prefix": "global"
+    },
+    {
+      "id": "2442007",
+      "name": "release-notes",
+      "prefix": "global"
+    }
+  ],
+  "_links": {}
+}

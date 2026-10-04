@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "id": "2441918",
+      "name": "anwenderhandbuch",
+      "prefix": "global"
+    },
+    {
+      "id": "2441919",
+      "name": "kaufvertrag",
+      "prefix": "global"
+    },
+    {
+      "id": "2441920",
+      "name": "lieferung",
+      "prefix": "global"
+    }
+  ],
+  "_links": {}
+}

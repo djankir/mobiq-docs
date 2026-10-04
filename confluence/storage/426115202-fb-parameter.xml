@@ -1,0 +1,9 @@
+<!-- MOBIQFB / Parametertabellen (Version 2) -->
+<ac:structured-macro ac:name="info" ac:schema-version="1" ac:macro-id="a1b2c3d4-0009-4e5f-9a0b-000001071271">
+<ac:rich-text-body>
+<p>Parameter werden je Mandant unter Administration › Parameter gepflegt. Änderungen wirken ab der nächsten Anmeldung.</p>
+</ac:rich-text-body>
+</ac:structured-macro>
+<ac:structured-macro ac:name="children" ac:schema-version="1" ac:macro-id="a1b2c3d4-0010-4e5f-9a0b-000001079190">
+<ac:parameter ac:name="all">true</ac:parameter>
+</ac:structured-macro>

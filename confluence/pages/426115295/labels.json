@@ -1,0 +1,15 @@
+{
+  "results": [
+    {
+      "id": "2441511",
+      "name": "parametertabelle",
+      "prefix": "global"
+    },
+    {
+      "id": "2441512",
+      "name": "fibu",
+      "prefix": "global"
+    }
+  ],
+  "_links": {}
+}

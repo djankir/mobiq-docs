@@ -1,0 +1,6 @@
+<!-- MOBIQHB / 6 Gutscheine (Version 4) -->
+<p>Ein Gutschein kann nur vollständig eingelöst werden. Ist der Einkauf günstiger als der Gutschein, verfällt der Rest nicht, sondern wird als neuer Gutschein ausgegeben.</p>
+<p>Scannen Sie den Gutschein-Code oder geben Sie die Nummer im Feld „Gutschein“ ein.</p>
+<ac:image ac:align="center" ac:layout="center" ac:width="480">
+<ri:attachment ri:filename="kasse-gutschein.png" />
+</ac:image>

@@ -1,0 +1,3 @@
+<!-- MOBIQDEV / Druckmanagement (Version 3) -->
+<p>Belege werden über FreeMarker-Vorlagen (<code>.ftl</code>) in <code>druck/vorlagen</code> erzeugt. Einstieg ist die Klasse <code>LegacyDruck</code>.</p>
+<p>Kundeneigene Vorlagen liegen beim Kunden unter <code>vorlagen/kunde</code> und überschreiben die Standardvorlage mit gleichem Namen.</p>

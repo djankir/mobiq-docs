@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "id": "att426115158",
+      "status": "current",
+      "title": "register-lieferung.png",
+      "createdAt": "2026-06-23T14:00:00.000Z",
+      "pageId": "426115141",
+      "mediaType": "image/png",
+      "mediaTypeDescription": "PNG Image",
+      "comment": "",
+      "fileId": "0b1f3135a085b",
+      "fileSize": 84213,
+      "webuiLink": "/pages/viewpageattachments.action?pageId=426115141&preview=/426115141/register-lieferung.png",
+      "downloadLink": "/download/attachments/426115141/register-lieferung.png?version=1&api=v2",
+      "version": {
+        "number": 1,
+        "message": "",
+        "minorEdit": false,
+        "authorId": "712020:56be0099-1df7-421a-a9c9-a6c60faeacb5",
+        "createdAt": "2026-06-23T14:00:00.000Z"
+      },
+      "_links": {
+        "download": "/download/attachments/426115141/register-lieferung.png?version=1&api=v2",
+        "webui": "/pages/viewpageattachments.action?pageId=426115141"
+      }
+    }
+  ],
+  "_links": {
+    "base": "https://musterhaus-software.atlassian.net/wiki"
+  }
+}

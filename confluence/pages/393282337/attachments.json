@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "id": "att393282354",
+      "status": "current",
+      "title": "kasse-gutschein.png",
+      "createdAt": "2026-02-11T14:12:00.000Z",
+      "pageId": "393282337",
+      "mediaType": "image/png",
+      "mediaTypeDescription": "PNG Image",
+      "comment": "",
+      "fileId": "0b1f2d6af60ff",
+      "fileSize": 84213,
+      "webuiLink": "/pages/viewpageattachments.action?pageId=393282337&preview=/393282337/kasse-gutschein.png",
+      "downloadLink": "/download/attachments/393282337/kasse-gutschein.png?version=1&api=v2",
+      "version": {
+        "number": 1,
+        "message": "",
+        "minorEdit": false,
+        "authorId": "712020:adb52172-41fb-4266-a03e-44a71b447d89",
+        "createdAt": "2026-02-11T14:12:00.000Z"
+      },
+      "_links": {
+        "download": "/download/attachments/393282337/kasse-gutschein.png?version=1&api=v2",
+        "webui": "/pages/viewpageattachments.action?pageId=393282337"
+      }
+    }
+  ],
+  "_links": {
+    "base": "https://musterhaus-software.atlassian.net/wiki"
+  }
+}

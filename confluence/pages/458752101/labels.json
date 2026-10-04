@@ -1,0 +1,15 @@
+{
+  "results": [
+    {
+      "id": "2441317",
+      "name": "technische-doku",
+      "prefix": "global"
+    },
+    {
+      "id": "2441318",
+      "name": "datenmodell",
+      "prefix": "global"
+    }
+  ],
+  "_links": {}
+}

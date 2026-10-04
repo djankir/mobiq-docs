@@ -1,0 +1,79 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 2012 >>
+stream
+0.114 0.306 0.847 rg
+BT /F2 18 Tf 0 g 56 778 Td (MOBIQ Gesamtsystem) Tj ET
+0 g
+BT /F1 10.5 Tf 0 g 56 749.7 Td (Stand 26.1 \267 Export aus draw.io \(mobiq-gesamtsystem.drawio\)) Tj ET
+0.75 G 1 w
+0.95 0.96 0.99 rg 70 600 130 46 re B 0 g
+BT /F2 10 Tf 0 g 78 626 Td (Desktop-Client) Tj ET
+BT /F1 10 Tf 0 g 78 614 Td (Delphi) Tj ET
+0.95 0.96 0.99 rg 232 600 130 46 re B 0 g
+BT /F2 10 Tf 0 g 240 626 Td (Web-Client) Tj ET
+BT /F1 10 Tf 0 g 240 614 Td (React) Tj ET
+0.95 0.96 0.99 rg 394 600 130 46 re B 0 g
+BT /F2 10 Tf 0 g 402 626 Td (Fahrer-App) Tj ET
+BT /F1 10 Tf 0 g 402 614 Td (Kotlin) Tj ET
+0.906 0.933 0.984 rg 150 470 295 56 re B 0 g
+BT /F2 10 Tf 0 g 158 501 Td (Anwendungsserver) Tj ET
+BT /F1 10 Tf 0 g 158 489 Td (Kaufvertrag \267 Kasse \267 Tour \267 Faktura) Tj ET
+0.95 0.96 0.99 rg 70 340 120 46 re B 0 g
+BT /F2 10 Tf 0 g 78 360 Td (Dienst tour) Tj ET
+0.95 0.96 0.99 rg 205 340 120 46 re B 0 g
+BT /F2 10 Tf 0 g 213 360 Td (Dienst druck) Tj ET
+0.95 0.96 0.99 rg 340 340 120 46 re B 0 g
+BT /F2 10 Tf 0 g 348 360 Td (Dienst fibu-export) Tj ET
+0.95 0.96 0.99 rg 150 220 160 46 re B 0 g
+BT /F2 10 Tf 0 g 158 240 Td (PostgreSQL) Tj ET
+0.95 0.96 0.99 rg 340 220 160 46 re B 0 g
+BT /F2 10 Tf 0 g 348 246 Td (Finanzbuchhaltung) Tj ET
+BT /F1 10 Tf 0 g 348 234 Td (\(MOBIQ Finanz\)) Tj ET
+0.3 G 1.2 w
+135 600 m 250 528 l S 250 528 m 245.4 534.6 l 242.1 529.3 l h f
+297 600 m 297 528 l S 297 528 m 300.1 535.4 l 293.9 535.4 l h f
+459 600 m 345 528 l S 345 528 m 352.9 529.3 l 349.6 534.6 l h f
+200 470 m 130 388 l S 130 388 m 137.2 391.6 l 132.4 395.6 l h f
+297 470 m 265 388 l S 265 388 m 270.6 393.7 l 264.8 396.0 l h f
+390 470 m 400 388 l S 400 388 m 402.2 395.7 l 396.0 394.9 l h f
+265 340 m 240 268 l S 240 268 m 245.4 273.9 l 239.5 276.0 l h f
+400 340 m 420 268 l S 420 268 m 421.0 275.9 l 415.0 274.3 l h f
+BT /F1 9 Tf 0.45 g 70 180 Td (Rechnungen gelangen nur \374ber fibu-export in die Finanzbuchhaltung \(ADR-021\).) Tj ET
+BT /F1 8 Tf 0.45 g 56 28 Td (MOBIQ Architektur Gesamtsystem \267 Seite 1 von 1) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Title (MOBIQ Architektur Gesamtsystem) /Author (Tobias Reuter) /Creator (Microsoft Word) /CreationDate (D:20260120160500) /ModDate (D:20260120160500) >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000218 00000 n 
+0000000320 00000 n 
+0000002384 00000 n 
+0000002520 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R /Info 7 0 R >>
+startxref
+2692
+%%EOF

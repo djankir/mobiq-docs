@@ -1,0 +1,15 @@
+{
+  "results": [
+    {
+      "id": "2441357",
+      "name": "dialogbeschreibung",
+      "prefix": "global"
+    },
+    {
+      "id": "2441358",
+      "name": "kaufvertrag",
+      "prefix": "global"
+    }
+  ],
+  "_links": {}
+}

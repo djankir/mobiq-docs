@@ -1,0 +1,306 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#Collection(driveItem)",
+  "value": [
+    {
+      "@odata.etag": "\"{01MOBIQ004711DOC14},17\"",
+      "id": "01MOBIQ004711DOC14",
+      "name": "MOBIQ_Parameterliste_26.3.xlsx",
+      "size": 17264,
+      "webUrl": "https://musterhaus.sharepoint.com/sites/Produktdokumentation/Freigegebene%20Dokumente/MOBIQ/Fachberatung/MOBIQ_Parameterliste_26.3.xlsx",
+      "createdDateTime": "2021-03-15T08:00:00Z",
+      "lastModifiedDateTime": "2026-07-09T14:20:00Z",
+      "createdBy": {
+        "user": {
+          "email": "miriam.thelen@musterhaus-software.de",
+          "id": "a3f1530000-0000-4000-8000-000000000053",
+          "displayName": "Miriam Thelen"
+        }
+      },
+      "lastModifiedBy": {
+        "user": {
+          "email": "miriam.thelen@musterhaus-software.de",
+          "id": "a3f1530000-0000-4000-8000-000000000053",
+          "displayName": "Miriam Thelen"
+        }
+      },
+      "parentReference": {
+        "driveType": "documentLibrary",
+        "path": "/drives/b!mobiq/root:/Freigegebene Dokumente/MOBIQ/Fachberatung"
+      },
+      "file": {
+        "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "hashes": {
+          "quickXorHash": "MzE3Mjg5Njg4MA=="
+        }
+      },
+      "fileSystemInfo": {
+        "createdDateTime": "2021-03-15T08:00:00Z",
+        "lastModifiedDateTime": "2026-07-09T14:20:00Z"
+      },
+      "listItem": {
+        "fields": {
+          "Dokumentart": "Parametertabelle",
+          "Verantwortlich": "Miriam Thelen"
+        }
+      }
+    },
+    {
+      "@odata.etag": "\"{01MOBIQ004748DOC20},23\"",
+      "id": "01MOBIQ004748DOC20",
+      "name": "Dialogbeschreibung_Kaufvertrag_v7.docx",
+      "size": 14290,
+      "webUrl": "https://musterhaus.sharepoint.com/sites/Produktdokumentation/Freigegebene%20Dokumente/MOBIQ/Fachberatung/Dialogbeschreibung_Kaufvertrag_v7.docx",
+      "createdDateTime": "2019-11-04T09:00:00Z",
+      "lastModifiedDateTime": "2026-06-23T13:40:00Z",
+      "createdBy": {
+        "user": {
+          "email": "miriam.thelen@musterhaus-software.de",
+          "id": "a3f1530000-0000-4000-8000-000000000053",
+          "displayName": "Miriam Thelen"
+        }
+      },
+      "lastModifiedBy": {
+        "user": {
+          "email": "miriam.thelen@musterhaus-software.de",
+          "id": "a3f1530000-0000-4000-8000-000000000053",
+          "displayName": "Miriam Thelen"
+        }
+      },
+      "parentReference": {
+        "driveType": "documentLibrary",
+        "path": "/drives/b!mobiq/root:/Freigegebene Dokumente/MOBIQ/Fachberatung"
+      },
+      "file": {
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "hashes": {
+          "quickXorHash": "MzAzMDgzMzcxNA=="
+        }
+      },
+      "fileSystemInfo": {
+        "createdDateTime": "2019-11-04T09:00:00Z",
+        "lastModifiedDateTime": "2026-06-23T13:40:00Z"
+      },
+      "listItem": {
+        "fields": {
+          "Dokumentart": "Dialogbeschreibung",
+          "Verantwortlich": "Miriam Thelen"
+        }
+      }
+    },
+    {
+      "@odata.etag": "\"{01MOBIQ004785DOC21},24\"",
+      "id": "01MOBIQ004785DOC21",
+      "name": "MOBIQ_Installationshandbuch_26.3.pdf",
+      "size": 4363,
+      "webUrl": "https://musterhaus.sharepoint.com/sites/Produktdokumentation/Freigegebene%20Dokumente/MOBIQ/Auslieferung/26.3/MOBIQ_Installationshandbuch_26.3.pdf",
+      "createdDateTime": "2026-07-15T08:30:00Z",
+      "lastModifiedDateTime": "2026-07-15T08:30:00Z",
+      "createdBy": {
+        "user": {
+          "email": "kai.brenner@musterhaus-software.de",
+          "id": "a3f1140000-0000-4000-8000-000000000014",
+          "displayName": "Kai Brenner"
+        }
+      },
+      "lastModifiedBy": {
+        "user": {
+          "email": "kai.brenner@musterhaus-software.de",
+          "id": "a3f1140000-0000-4000-8000-000000000014",
+          "displayName": "Kai Brenner"
+        }
+      },
+      "parentReference": {
+        "driveType": "documentLibrary",
+        "path": "/drives/b!mobiq/root:/Freigegebene Dokumente/MOBIQ/Auslieferung/26.3"
+      },
+      "file": {
+        "mimeType": "application/pdf",
+        "hashes": {
+          "quickXorHash": "MjA3MTM5NTIyNw=="
+        }
+      },
+      "fileSystemInfo": {
+        "createdDateTime": "2026-07-15T08:30:00Z",
+        "lastModifiedDateTime": "2026-07-15T08:30:00Z"
+      },
+      "listItem": {
+        "fields": {
+          "Dokumentart": "Installationsdoku",
+          "Verantwortlich": "Kai Brenner"
+        }
+      }
+    },
+    {
+      "@odata.etag": "\"{01MOBIQ004822DOC16},19\"",
+      "id": "01MOBIQ004822DOC16",
+      "name": "Schulung_Verkauf_Kaufvertrag_Kasse.pdf",
+      "size": 3646,
+      "webUrl": "https://musterhaus.sharepoint.com/sites/Produktdokumentation/Freigegebene%20Dokumente/MOBIQ/Schulung/Schulung_Verkauf_Kaufvertrag_Kasse.pdf",
+      "createdDateTime": "2025-02-10T09:00:00Z",
+      "lastModifiedDateTime": "2026-03-04T11:15:00Z",
+      "createdBy": {
+        "user": {
+          "email": "sabine.kroeger@musterhaus-software.de",
+          "id": "a3f1520000-0000-4000-8000-000000000052",
+          "displayName": "Sabine Kröger"
+        }
+      },
+      "lastModifiedBy": {
+        "user": {
+          "email": "sabine.kroeger@musterhaus-software.de",
+          "id": "a3f1520000-0000-4000-8000-000000000052",
+          "displayName": "Sabine Kröger"
+        }
+      },
+      "parentReference": {
+        "driveType": "documentLibrary",
+        "path": "/drives/b!mobiq/root:/Freigegebene Dokumente/MOBIQ/Schulung"
+      },
+      "file": {
+        "mimeType": "application/pdf",
+        "hashes": {
+          "quickXorHash": "MTUxMTQ2NjcxOA=="
+        }
+      },
+      "fileSystemInfo": {
+        "createdDateTime": "2025-02-10T09:00:00Z",
+        "lastModifiedDateTime": "2026-03-04T11:15:00Z"
+      },
+      "listItem": {
+        "fields": {
+          "Dokumentart": "Schulungsunterlage",
+          "Verantwortlich": "Sabine Kröger"
+        }
+      }
+    },
+    {
+      "@odata.etag": "\"{01MOBIQ004859DOC15},18\"",
+      "id": "01MOBIQ004859DOC15",
+      "name": "MOBIQ_Architektur_Gesamtsystem.pdf",
+      "size": 2928,
+      "webUrl": "https://musterhaus.sharepoint.com/sites/Produktdokumentation/Freigegebene%20Dokumente/MOBIQ/Entwicklung/Architektur/MOBIQ_Architektur_Gesamtsystem.pdf",
+      "createdDateTime": "2024-05-06T10:00:00Z",
+      "lastModifiedDateTime": "2026-01-20T16:05:00Z",
+      "createdBy": {
+        "user": {
+          "email": "tobias.reuter@musterhaus-software.de",
+          "id": "a3f190000-0000-4000-8000-000000000009",
+          "displayName": "Tobias Reuter"
+        }
+      },
+      "lastModifiedBy": {
+        "user": {
+          "email": "tobias.reuter@musterhaus-software.de",
+          "id": "a3f190000-0000-4000-8000-000000000009",
+          "displayName": "Tobias Reuter"
+        }
+      },
+      "parentReference": {
+        "driveType": "documentLibrary",
+        "path": "/drives/b!mobiq/root:/Freigegebene Dokumente/MOBIQ/Entwicklung/Architektur"
+      },
+      "file": {
+        "mimeType": "application/pdf",
+        "hashes": {
+          "quickXorHash": "MjU5MjA2OTc0NA=="
+        }
+      },
+      "fileSystemInfo": {
+        "createdDateTime": "2024-05-06T10:00:00Z",
+        "lastModifiedDateTime": "2026-01-20T16:05:00Z"
+      },
+      "listItem": {
+        "fields": {
+          "Dokumentart": "Architekturbild",
+          "Verantwortlich": "Tobias Reuter"
+        }
+      }
+    },
+    {
+      "@odata.etag": "\"{01MOBIQ004896DOC21},24\"",
+      "id": "01MOBIQ004896DOC21",
+      "name": "Leistungsbeschreibung_MOBIQ_ERP_2026.docx",
+      "size": 6734,
+      "webUrl": "https://musterhaus.sharepoint.com/sites/Produktdokumentation/Freigegebene%20Dokumente/MOBIQ/Vertrieb/Leistungsbeschreibung_MOBIQ_ERP_2026.docx",
+      "createdDateTime": "2025-12-01T09:00:00Z",
+      "lastModifiedDateTime": "2026-02-18T10:30:00Z",
+      "createdBy": {
+        "user": {
+          "email": "markus.engel@musterhaus-software.de",
+          "id": "a3f1110000-0000-4000-8000-000000000011",
+          "displayName": "Markus Engel"
+        }
+      },
+      "lastModifiedBy": {
+        "user": {
+          "email": "markus.engel@musterhaus-software.de",
+          "id": "a3f1110000-0000-4000-8000-000000000011",
+          "displayName": "Markus Engel"
+        }
+      },
+      "parentReference": {
+        "driveType": "documentLibrary",
+        "path": "/drives/b!mobiq/root:/Freigegebene Dokumente/MOBIQ/Vertrieb"
+      },
+      "file": {
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "hashes": {
+          "quickXorHash": "MzYxMTQ5NTkxOA=="
+        }
+      },
+      "fileSystemInfo": {
+        "createdDateTime": "2025-12-01T09:00:00Z",
+        "lastModifiedDateTime": "2026-02-18T10:30:00Z"
+      },
+      "listItem": {
+        "fields": {
+          "Dokumentart": "Leistungsbeschreibung",
+          "Verantwortlich": "Markus Engel"
+        }
+      }
+    },
+    {
+      "@odata.etag": "\"{01MOBIQ004933DOC16},19\"",
+      "id": "01MOBIQ004933DOC16",
+      "name": "Datenmodell_Auftragsabwicklung_26.3.xlsx",
+      "size": 9491,
+      "webUrl": "https://musterhaus.sharepoint.com/sites/Produktdokumentation/Freigegebene%20Dokumente/MOBIQ/Entwicklung/Datenmodell/Datenmodell_Auftragsabwicklung_26.3.xlsx",
+      "createdDateTime": "2022-09-01T08:00:00Z",
+      "lastModifiedDateTime": "2026-07-10T09:10:00Z",
+      "createdBy": {
+        "user": {
+          "email": "jonas.albrecht@musterhaus-software.de",
+          "id": "a3f1230000-0000-4000-8000-000000000023",
+          "displayName": "Jonas Albrecht"
+        }
+      },
+      "lastModifiedBy": {
+        "user": {
+          "email": "jonas.albrecht@musterhaus-software.de",
+          "id": "a3f1230000-0000-4000-8000-000000000023",
+          "displayName": "Jonas Albrecht"
+        }
+      },
+      "parentReference": {
+        "driveType": "documentLibrary",
+        "path": "/drives/b!mobiq/root:/Freigegebene Dokumente/MOBIQ/Entwicklung/Datenmodell"
+      },
+      "file": {
+        "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "hashes": {
+          "quickXorHash": "MzI2NjYxNjYxMQ=="
+        }
+      },
+      "fileSystemInfo": {
+        "createdDateTime": "2022-09-01T08:00:00Z",
+        "lastModifiedDateTime": "2026-07-10T09:10:00Z"
+      },
+      "listItem": {
+        "fields": {
+          "Dokumentart": "Technische Doku",
+          "Verantwortlich": "Jonas Albrecht"
+        }
+      }
+    }
+  ]
+}

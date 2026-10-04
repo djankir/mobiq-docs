@@ -1,0 +1,5 @@
+<!-- MOBIQDEV / Kasse: Belegdaten und Tagesabschluss (Version 4) -->
+<h2>3 Tabelle kassenbeleg</h2>
+<p>Jeder Bon ist ein Satz in <code>kassenbeleg</code> mit seinen Zahlungen in <code>kassenzahlung</code>. Der Tagesabschluss liest alle Belege des Tages je Filiale.</p>
+<h2>4 Aufbewahrung</h2>
+<p>Kassenbelege werden nicht gelöscht. Ältere Jahrgänge können über die Archivfunktion ausgelagert werden.</p>

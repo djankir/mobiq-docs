@@ -1,0 +1,69 @@
+<!-- MOBIQHB / Glossar (Version 19) -->
+<table data-layout="default">
+<colgroup>
+<col />
+<col />
+</colgroup>
+<tbody>
+<tr>
+<th>
+<p>
+<strong>Begriff</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Bedeutung</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>Anzahlung</p>
+</td>
+<td>
+<p>Teil des Kaufpreises, der bei Vertragsabschluss kassiert wird</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Finanzkauf</p>
+</td>
+<td>
+<p>Kauf auf Raten über die Partnerbank</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Kommission</p>
+</td>
+<td>
+<p>Interne Nummer des Kaufvertrags im Lager</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Liefersperre</p>
+</td>
+<td>
+<p>Kennzeichen am Kaufvertrag: wird nicht disponiert, auch wenn er lieferbereit ist</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Stopp</p>
+</td>
+<td>
+<p>Ein Halt auf einer Tour, entspricht einem Kaufvertrag</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tour</p>
+</td>
+<td>
+<p>Fahrt eines Fahrzeugs mit mehreren Stopps an einem Tag</p>
+</td>
+</tr>
+</tbody>
+</table>

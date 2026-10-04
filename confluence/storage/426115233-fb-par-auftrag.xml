@@ -1,0 +1,125 @@
+<!-- MOBIQFB / Parameter Auftrag und Lieferung (Version 9) -->
+<table data-layout="default">
+<colgroup>
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+</colgroup>
+<tbody>
+<tr>
+<th>
+<p>
+<strong>Parameter</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Bedeutung</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Standard</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Min</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Max</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Einheit</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>LIEF_VORLAUF_TAGE</p>
+</td>
+<td>
+<p>Vorlauf zwischen Wareneingang und frühestem Liefertermin</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>Tage</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LIEF_AVIS_STUNDEN</p>
+</td>
+<td>
+<p>Avisierung an den Kunden vor der Lieferung</p>
+</td>
+<td>
+<p>48</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>96</p>
+</td>
+<td>
+<p>Stunden</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ANZ_MIN_PROZ</p>
+</td>
+<td>
+<p>Mindestanzahlung bei Vertragsabschluss</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>100</p>
+</td>
+<td>
+<p>%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MONT_ZEIT_PUFFER</p>
+</td>
+<td>
+<p>Zeitpuffer je Montage</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>120</p>
+</td>
+<td>
+<p>Minuten</p>
+</td>
+</tr>
+</tbody>
+</table>

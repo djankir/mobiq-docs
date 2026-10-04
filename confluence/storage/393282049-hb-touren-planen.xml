@@ -1,0 +1,10 @@
+<!-- MOBIQHB / 2 Touren planen (Version 8) -->
+<p>Alle lieferbereiten Kaufverträge erscheinen in der Liste „Offene Lieferungen“. Ziehen Sie einen Auftrag auf eine Tour in der Karte, um ihn einzuplanen.</p>
+<ac:image ac:align="center" ac:layout="center" ac:width="760">
+<ri:attachment ri:filename="tourenplanung-karte.png" />
+</ac:image>
+<p>Ein Kaufvertrag ist immer genau ein Stopp auf einer Tour. Kaufverträge mit gesetzter Liefersperre erscheinen nicht in „Offene Lieferungen“.</p>
+<h2>2.3 Montage einplanen</h2>
+<p>Enthält ein Stopp eine Montageposition, plant MOBIQ automatisch einen Monteur und die Montagezeit mit ein. Den Puffer je Montage legt Ihr Administrator fest.</p>
+<h2>2.4 Ladevolumen</h2>
+<p>MOBIQ summiert das Volumen aller Stopps einer Tour und zeigt es in der Kopfzeile der Tour an.</p>

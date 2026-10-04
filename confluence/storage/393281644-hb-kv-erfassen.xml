@@ -1,0 +1,10 @@
+<!-- MOBIQHB / 2 Kaufvertrag erfassen (Version 9) -->
+<h2>2.1 Kunde und Positionen</h2>
+<p>Legen Sie den Kunden an oder wählen Sie ihn über die Kundensuche. Positionen erfassen Sie über die Artikelsuche oder per Scan des Preisschilds.</p>
+<ac:image ac:align="center" ac:layout="center" ac:width="760">
+<ri:attachment ri:filename="kv-erfassen.png" />
+</ac:image>
+<h2>2.2 Anzahlung</h2>
+<p>Die Mindestanzahlung legt Ihr Administrator fest (Standard 20 %). Die Anzahlung kassieren Sie direkt an der Kasse; sie wird auf dem Kaufvertrag vermerkt.</p>
+<h2>2.3 Finanzkauf</h2>
+<p>Bei einem Finanzkauf setzen Sie den Haken <strong>Finanzkauf</strong>. MOBIQ übergibt den Antrag an die Partnerbank. Die Bank zahlt den Kaufpreis nach der Auslieferung direkt an das Möbelhaus.</p>

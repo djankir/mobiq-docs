@@ -1,0 +1,914 @@
+{
+  "393281537": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441753",
+          "name": "anwenderhandbuch",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "393281611": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441827",
+          "name": "anwenderhandbuch",
+          "prefix": "global"
+        },
+        {
+          "id": "2441828",
+          "name": "kaufvertrag",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "393281644": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441860",
+          "name": "anwenderhandbuch",
+          "prefix": "global"
+        },
+        {
+          "id": "2441861",
+          "name": "kaufvertrag",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [
+        {
+          "id": "att393281661",
+          "status": "current",
+          "title": "kv-erfassen.png",
+          "createdAt": "2026-04-22T08:41:00.000Z",
+          "pageId": "393281644",
+          "mediaType": "image/png",
+          "mediaTypeDescription": "PNG Image",
+          "comment": "",
+          "fileId": "0b1f2d6af0d14",
+          "fileSize": 84213,
+          "webuiLink": "/pages/viewpageattachments.action?pageId=393281644&preview=/393281644/kv-erfassen.png",
+          "downloadLink": "/download/attachments/393281644/kv-erfassen.png?version=1&api=v2",
+          "version": {
+            "number": 1,
+            "message": "",
+            "minorEdit": false,
+            "authorId": "712020:adb52172-41fb-4266-a03e-44a71b447d89",
+            "createdAt": "2026-04-22T08:41:00.000Z"
+          },
+          "_links": {
+            "download": "/download/attachments/393281644/kv-erfassen.png?version=1&api=v2",
+            "webui": "/pages/viewpageattachments.action?pageId=393281644"
+          }
+        }
+      ],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "393281702": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441918",
+          "name": "anwenderhandbuch",
+          "prefix": "global"
+        },
+        {
+          "id": "2441919",
+          "name": "kaufvertrag",
+          "prefix": "global"
+        },
+        {
+          "id": "2441920",
+          "name": "lieferung",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [
+        {
+          "id": "att393281719",
+          "status": "current",
+          "title": "register-lieferung.png",
+          "createdAt": "2026-07-14T13:25:00.000Z",
+          "pageId": "393281702",
+          "mediaType": "image/png",
+          "mediaTypeDescription": "PNG Image",
+          "comment": "",
+          "fileId": "0b1f2d6af141a",
+          "fileSize": 84213,
+          "webuiLink": "/pages/viewpageattachments.action?pageId=393281702&preview=/393281702/register-lieferung.png",
+          "downloadLink": "/download/attachments/393281702/register-lieferung.png?version=1&api=v2",
+          "version": {
+            "number": 1,
+            "message": "",
+            "minorEdit": false,
+            "authorId": "712020:adb52172-41fb-4266-a03e-44a71b447d89",
+            "createdAt": "2026-07-14T13:25:00.000Z"
+          },
+          "_links": {
+            "download": "/download/attachments/393281702/register-lieferung.png?version=1&api=v2",
+            "webui": "/pages/viewpageattachments.action?pageId=393281702"
+          }
+        }
+      ],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "393281733": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441949",
+          "name": "anwenderhandbuch",
+          "prefix": "global"
+        },
+        {
+          "id": "2441950",
+          "name": "kaufvertrag",
+          "prefix": "global"
+        },
+        {
+          "id": "2441951",
+          "name": "zahlung",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "393282017": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441233",
+          "name": "anwenderhandbuch",
+          "prefix": "global"
+        },
+        {
+          "id": "2441234",
+          "name": "tourenplanung",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "393282049": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441265",
+          "name": "anwenderhandbuch",
+          "prefix": "global"
+        },
+        {
+          "id": "2441266",
+          "name": "tourenplanung",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [
+        {
+          "id": "att393282066",
+          "status": "current",
+          "title": "tourenplanung-karte.png",
+          "createdAt": "2026-04-30T07:55:00.000Z",
+          "pageId": "393282049",
+          "mediaType": "image/png",
+          "mediaTypeDescription": "PNG Image",
+          "comment": "",
+          "fileId": "0b1f2d6af3e1f",
+          "fileSize": 84213,
+          "webuiLink": "/pages/viewpageattachments.action?pageId=393282049&preview=/393282049/tourenplanung-karte.png",
+          "downloadLink": "/download/attachments/393282049/tourenplanung-karte.png?version=1&api=v2",
+          "version": {
+            "number": 1,
+            "message": "",
+            "minorEdit": false,
+            "authorId": "712020:adb52172-41fb-4266-a03e-44a71b447d89",
+            "createdAt": "2026-04-30T07:55:00.000Z"
+          },
+          "_links": {
+            "download": "/download/attachments/393282049/tourenplanung-karte.png?version=1&api=v2",
+            "webui": "/pages/viewpageattachments.action?pageId=393282049"
+          }
+        }
+      ],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "393282080": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441296",
+          "name": "anwenderhandbuch",
+          "prefix": "global"
+        },
+        {
+          "id": "2441297",
+          "name": "tourenplanung",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "393282305": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441521",
+          "name": "anwenderhandbuch",
+          "prefix": "global"
+        },
+        {
+          "id": "2441522",
+          "name": "kasse",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "393282337": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441553",
+          "name": "anwenderhandbuch",
+          "prefix": "global"
+        },
+        {
+          "id": "2441554",
+          "name": "kasse",
+          "prefix": "global"
+        },
+        {
+          "id": "2441555",
+          "name": "gutschein",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [
+        {
+          "id": "att393282354",
+          "status": "current",
+          "title": "kasse-gutschein.png",
+          "createdAt": "2026-02-11T14:12:00.000Z",
+          "pageId": "393282337",
+          "mediaType": "image/png",
+          "mediaTypeDescription": "PNG Image",
+          "comment": "",
+          "fileId": "0b1f2d6af60ff",
+          "fileSize": 84213,
+          "webuiLink": "/pages/viewpageattachments.action?pageId=393282337&preview=/393282337/kasse-gutschein.png",
+          "downloadLink": "/download/attachments/393282337/kasse-gutschein.png?version=1&api=v2",
+          "version": {
+            "number": 1,
+            "message": "",
+            "minorEdit": false,
+            "authorId": "712020:adb52172-41fb-4266-a03e-44a71b447d89",
+            "createdAt": "2026-02-11T14:12:00.000Z"
+          },
+          "_links": {
+            "download": "/download/attachments/393282337/kasse-gutschein.png?version=1&api=v2",
+            "webui": "/pages/viewpageattachments.action?pageId=393282337"
+          }
+        }
+      ],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "393282371": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441587",
+          "name": "anwenderhandbuch",
+          "prefix": "global"
+        },
+        {
+          "id": "2441588",
+          "name": "kasse",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "393282402": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441618",
+          "name": "anwenderhandbuch",
+          "prefix": "global"
+        },
+        {
+          "id": "2441619",
+          "name": "kasse",
+          "prefix": "global"
+        },
+        {
+          "id": "2441620",
+          "name": "faq",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "393282611": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441827",
+          "name": "anwenderhandbuch",
+          "prefix": "global"
+        },
+        {
+          "id": "2441828",
+          "name": "fibu",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "393282707": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441923",
+          "name": "anwenderhandbuch",
+          "prefix": "global"
+        },
+        {
+          "id": "2441924",
+          "name": "glossar",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "393282790": {
+    "labels": {
+      "results": [
+        {
+          "id": "2442006",
+          "name": "anwenderhandbuch",
+          "prefix": "global"
+        },
+        {
+          "id": "2442007",
+          "name": "release-notes",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "426115073": {
+    "labels": {
+      "results": [],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "426115109": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441325",
+          "name": "dialogbeschreibung",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "426115141": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441357",
+          "name": "dialogbeschreibung",
+          "prefix": "global"
+        },
+        {
+          "id": "2441358",
+          "name": "kaufvertrag",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [
+        {
+          "id": "att426115158",
+          "status": "current",
+          "title": "register-lieferung.png",
+          "createdAt": "2026-06-23T14:00:00.000Z",
+          "pageId": "426115141",
+          "mediaType": "image/png",
+          "mediaTypeDescription": "PNG Image",
+          "comment": "",
+          "fileId": "0b1f3135a085b",
+          "fileSize": 84213,
+          "webuiLink": "/pages/viewpageattachments.action?pageId=426115141&preview=/426115141/register-lieferung.png",
+          "downloadLink": "/download/attachments/426115141/register-lieferung.png?version=1&api=v2",
+          "version": {
+            "number": 1,
+            "message": "",
+            "minorEdit": false,
+            "authorId": "712020:56be0099-1df7-421a-a9c9-a6c60faeacb5",
+            "createdAt": "2026-06-23T14:00:00.000Z"
+          },
+          "_links": {
+            "download": "/download/attachments/426115141/register-lieferung.png?version=1&api=v2",
+            "webui": "/pages/viewpageattachments.action?pageId=426115141"
+          }
+        }
+      ],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "426115176": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441392",
+          "name": "dialogbeschreibung",
+          "prefix": "global"
+        },
+        {
+          "id": "2441393",
+          "name": "kasse",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "426115202": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441418",
+          "name": "parametertabelle",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "426115233": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441449",
+          "name": "parametertabelle",
+          "prefix": "global"
+        },
+        {
+          "id": "2441450",
+          "name": "kaufvertrag",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "426115264": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441480",
+          "name": "parametertabelle",
+          "prefix": "global"
+        },
+        {
+          "id": "2441481",
+          "name": "tourenplanung",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "426115295": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441511",
+          "name": "parametertabelle",
+          "prefix": "global"
+        },
+        {
+          "id": "2441512",
+          "name": "fibu",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "458752001": {
+    "labels": {
+      "results": [],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "458752033": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441249",
+          "name": "architektur",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [
+        {
+          "id": "att458752050",
+          "status": "current",
+          "title": "mobiq-gesamtsystem.drawio",
+          "createdAt": "2026-01-20T16:00:00.000Z",
+          "pageId": "458752033",
+          "mediaType": "application/vnd.jgraph.mxfile",
+          "mediaTypeDescription": "draw.io Diagram",
+          "comment": "",
+          "fileId": "0b1f34fa803ff",
+          "fileSize": 23104,
+          "webuiLink": "/pages/viewpageattachments.action?pageId=458752033&preview=/458752033/mobiq-gesamtsystem.drawio",
+          "downloadLink": "/download/attachments/458752033/mobiq-gesamtsystem.drawio?version=1&api=v2",
+          "version": {
+            "number": 1,
+            "message": "",
+            "minorEdit": false,
+            "authorId": "712020:700ae56e-db50-406c-a905-d6e328015929",
+            "createdAt": "2026-01-20T16:00:00.000Z"
+          },
+          "_links": {
+            "download": "/download/attachments/458752033/mobiq-gesamtsystem.drawio?version=1&api=v2",
+            "webui": "/pages/viewpageattachments.action?pageId=458752033"
+          }
+        },
+        {
+          "id": "att458752051",
+          "status": "current",
+          "title": "mobiq-gesamtsystem.drawio.png",
+          "createdAt": "2026-01-20T16:00:00.000Z",
+          "pageId": "458752033",
+          "mediaType": "image/png",
+          "mediaTypeDescription": "PNG Image",
+          "comment": "",
+          "fileId": "0b1f34fa80400",
+          "fileSize": 85244,
+          "webuiLink": "/pages/viewpageattachments.action?pageId=458752033&preview=/458752033/mobiq-gesamtsystem.drawio.png",
+          "downloadLink": "/download/attachments/458752033/mobiq-gesamtsystem.drawio.png?version=1&api=v2",
+          "version": {
+            "number": 1,
+            "message": "",
+            "minorEdit": false,
+            "authorId": "712020:700ae56e-db50-406c-a905-d6e328015929",
+            "createdAt": "2026-01-20T16:00:00.000Z"
+          },
+          "_links": {
+            "download": "/download/attachments/458752033/mobiq-gesamtsystem.drawio.png?version=1&api=v2",
+            "webui": "/pages/viewpageattachments.action?pageId=458752033"
+          }
+        }
+      ],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "458752069": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441285",
+          "name": "technische-doku",
+          "prefix": "global"
+        },
+        {
+          "id": "2441286",
+          "name": "schnittstelle",
+          "prefix": "global"
+        },
+        {
+          "id": "2441287",
+          "name": "fibu",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "458752101": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441317",
+          "name": "technische-doku",
+          "prefix": "global"
+        },
+        {
+          "id": "2441318",
+          "name": "datenmodell",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "458752133": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441349",
+          "name": "technische-doku",
+          "prefix": "global"
+        },
+        {
+          "id": "2441350",
+          "name": "datenmodell",
+          "prefix": "global"
+        },
+        {
+          "id": "2441351",
+          "name": "migration",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "458752165": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441381",
+          "name": "technische-doku",
+          "prefix": "global"
+        },
+        {
+          "id": "2441382",
+          "name": "kasse",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "458752197": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441413",
+          "name": "technische-doku",
+          "prefix": "global"
+        },
+        {
+          "id": "2441414",
+          "name": "druck",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "491520001": {
+    "labels": {
+      "results": [],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "491520033": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441249",
+          "name": "installation",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  },
+  "491520065": {
+    "labels": {
+      "results": [
+        {
+          "id": "2441281",
+          "name": "installation",
+          "prefix": "global"
+        },
+        {
+          "id": "2441282",
+          "name": "druck",
+          "prefix": "global"
+        }
+      ],
+      "_links": {}
+    },
+    "attachments": {
+      "results": [],
+      "_links": {
+        "base": "https://musterhaus-software.atlassian.net/wiki"
+      }
+    }
+  }
+}

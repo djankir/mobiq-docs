@@ -1,0 +1,15 @@
+{
+  "results": [
+    {
+      "id": "2441281",
+      "name": "installation",
+      "prefix": "global"
+    },
+    {
+      "id": "2441282",
+      "name": "druck",
+      "prefix": "global"
+    }
+  ],
+  "_links": {}
+}

@@ -1,0 +1,3 @@
+<!-- MOBIQOPS / Kundeneigene Druckvorlagen (Version 2) -->
+<p>Kundeneigene Vorlagen sind FreeMarker-Dateien (<code>.ftl</code>) im Ordner <code>vorlagen/kunde</code> auf dem Anwendungsserver.</p>
+<p>Kopieren Sie die Standardvorlage, passen Sie sie an und speichern Sie sie unter demselben Namen. Ein Neustart von mobiq-druck ist nicht nötig.</p>

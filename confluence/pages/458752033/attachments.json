@@ -1,0 +1,57 @@
+{
+  "results": [
+    {
+      "id": "att458752050",
+      "status": "current",
+      "title": "mobiq-gesamtsystem.drawio",
+      "createdAt": "2026-01-20T16:00:00.000Z",
+      "pageId": "458752033",
+      "mediaType": "application/vnd.jgraph.mxfile",
+      "mediaTypeDescription": "draw.io Diagram",
+      "comment": "",
+      "fileId": "0b1f34fa803ff",
+      "fileSize": 23104,
+      "webuiLink": "/pages/viewpageattachments.action?pageId=458752033&preview=/458752033/mobiq-gesamtsystem.drawio",
+      "downloadLink": "/download/attachments/458752033/mobiq-gesamtsystem.drawio?version=1&api=v2",
+      "version": {
+        "number": 1,
+        "message": "",
+        "minorEdit": false,
+        "authorId": "712020:700ae56e-db50-406c-a905-d6e328015929",
+        "createdAt": "2026-01-20T16:00:00.000Z"
+      },
+      "_links": {
+        "download": "/download/attachments/458752033/mobiq-gesamtsystem.drawio?version=1&api=v2",
+        "webui": "/pages/viewpageattachments.action?pageId=458752033"
+      }
+    },
+    {
+      "id": "att458752051",
+      "status": "current",
+      "title": "mobiq-gesamtsystem.drawio.png",
+      "createdAt": "2026-01-20T16:00:00.000Z",
+      "pageId": "458752033",
+      "mediaType": "image/png",
+      "mediaTypeDescription": "PNG Image",
+      "comment": "",
+      "fileId": "0b1f34fa80400",
+      "fileSize": 85244,
+      "webuiLink": "/pages/viewpageattachments.action?pageId=458752033&preview=/458752033/mobiq-gesamtsystem.drawio.png",
+      "downloadLink": "/download/attachments/458752033/mobiq-gesamtsystem.drawio.png?version=1&api=v2",
+      "version": {
+        "number": 1,
+        "message": "",
+        "minorEdit": false,
+        "authorId": "712020:700ae56e-db50-406c-a905-d6e328015929",
+        "createdAt": "2026-01-20T16:00:00.000Z"
+      },
+      "_links": {
+        "download": "/download/attachments/458752033/mobiq-gesamtsystem.drawio.png?version=1&api=v2",
+        "webui": "/pages/viewpageattachments.action?pageId=458752033"
+      }
+    }
+  ],
+  "_links": {
+    "base": "https://musterhaus-software.atlassian.net/wiki"
+  }
+}

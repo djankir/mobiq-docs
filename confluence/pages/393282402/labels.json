@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "id": "2441618",
+      "name": "anwenderhandbuch",
+      "prefix": "global"
+    },
+    {
+      "id": "2441619",
+      "name": "kasse",
+      "prefix": "global"
+    },
+    {
+      "id": "2441620",
+      "name": "faq",
+      "prefix": "global"
+    }
+  ],
+  "_links": {}
+}

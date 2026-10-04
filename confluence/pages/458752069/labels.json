@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "id": "2441285",
+      "name": "technische-doku",
+      "prefix": "global"
+    },
+    {
+      "id": "2441286",
+      "name": "schnittstelle",
+      "prefix": "global"
+    },
+    {
+      "id": "2441287",
+      "name": "fibu",
+      "prefix": "global"
+    }
+  ],
+  "_links": {}
+}

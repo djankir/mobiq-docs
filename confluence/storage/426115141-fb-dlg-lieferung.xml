@@ -1,0 +1,108 @@
+<!-- MOBIQFB / Kaufvertrag – Register Lieferung (Version 7) -->
+<p>Aufruf über Kaufvertrag › Lieferung. Pflichtfelder sind fett markiert.</p>
+<ac:image ac:align="center" ac:layout="center" ac:width="760">
+<ri:attachment ri:filename="register-lieferung.png" />
+</ac:image>
+<table data-layout="default">
+<colgroup>
+<col />
+<col />
+<col />
+<col />
+</colgroup>
+<tbody>
+<tr>
+<th>
+<p>
+<strong>Feld</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Typ</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Pflicht</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Beschreibung</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>Wunschtermin</p>
+</td>
+<td>
+<p>KW-Auswahl</p>
+</td>
+<td>
+<p>ja</p>
+</td>
+<td>
+<p>Gewünschte Lieferwoche des Kunden</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Lieferadresse</p>
+</td>
+<td>
+<p>Adresse</p>
+</td>
+<td>
+<p>ja</p>
+</td>
+<td>
+<p>Vorbelegt mit der Kundenadresse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Etage / Aufzug</p>
+</td>
+<td>
+<p>Auswahl</p>
+</td>
+<td>
+<p>nein</p>
+</td>
+<td>
+<p>Für die Tourenplanung</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Liefersperre</p>
+</td>
+<td>
+<p>Checkbox</p>
+</td>
+<td>
+<p>nein</p>
+</td>
+<td>
+<p>Kaufvertrag wird nicht disponiert</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Montage</p>
+</td>
+<td>
+<p>Checkbox</p>
+</td>
+<td>
+<p>nein</p>
+</td>
+<td>
+<p>Aus Positionen mit Montageleistung vorbelegt</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Änderungen im Register „Lieferung“ werden sofort an die Disposition übertragen.</p>

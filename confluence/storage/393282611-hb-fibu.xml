@@ -1,0 +1,53 @@
+<!-- MOBIQHB / 5 Finanzbuchhaltung: Übergabe aus dem ERP (Version 7) -->
+<p>MOBIQ übergibt Rechnungen, Gutschriften und Anzahlungen jede Nacht an die Finanzbuchhaltung. Sie finden sie im Stapel „ERP-Import“.</p>
+<h2>5.2 Anzahlungen</h2>
+<p>Erhaltene Anzahlungen werden auf das Anzahlungskonto gebucht (Parameter <code>FIBU_KONTO_ANZAHLUNG</code>).</p>
+<p>Die Schlussrechnung wird nach vollständiger Auslieferung erstellt. Mit ihr wird die gesamte Anzahlung verrechnet.</p>
+<h2>5.3 Erlöse</h2>
+<p>Der Erlös wird mit dem Rechnungsdatum gebucht. Offene Posten werden über die Kaufvertragsnummer zugeordnet.</p>
+<table data-layout="default">
+<colgroup>
+<col />
+<col />
+</colgroup>
+<tbody>
+<tr>
+<th>
+<p>
+<strong>Belegart</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Bedeutung</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>RE</p>
+</td>
+<td>
+<p>Rechnung</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>GS</p>
+</td>
+<td>
+<p>Gutschrift</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AZ</p>
+</td>
+<td>
+<p>Anzahlung</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>5.4 Gutscheine</h2>
+<p>Verkaufte Gutscheine werden als Verbindlichkeit gebucht. Bei Einlösung wird die Verbindlichkeit vollständig aufgelöst.</p>

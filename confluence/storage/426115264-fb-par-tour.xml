@@ -1,0 +1,85 @@
+<!-- MOBIQFB / Parameter Tourenplanung (Version 4) -->
+<table data-layout="default">
+<colgroup>
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+</colgroup>
+<tbody>
+<tr>
+<th>
+<p>
+<strong>Parameter</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Bedeutung</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Standard</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Min</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Max</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Einheit</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>TOUR_MAX_STOPPS</p>
+</td>
+<td>
+<p>Höchstzahl Stopps je Tour</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>Stopps</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>TOUR_START_ZEIT</p>
+</td>
+<td>
+<p>Frühester Tourstart</p>
+</td>
+<td>
+<p>07:00</p>
+</td>
+<td>
+<p>05:00</p>
+</td>
+<td>
+<p>10:00</p>
+</td>
+<td>
+<p>Uhrzeit</p>
+</td>
+</tr>
+</tbody>
+</table>

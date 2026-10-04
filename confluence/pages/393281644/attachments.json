@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "id": "att393281661",
+      "status": "current",
+      "title": "kv-erfassen.png",
+      "createdAt": "2026-04-22T08:41:00.000Z",
+      "pageId": "393281644",
+      "mediaType": "image/png",
+      "mediaTypeDescription": "PNG Image",
+      "comment": "",
+      "fileId": "0b1f2d6af0d14",
+      "fileSize": 84213,
+      "webuiLink": "/pages/viewpageattachments.action?pageId=393281644&preview=/393281644/kv-erfassen.png",
+      "downloadLink": "/download/attachments/393281644/kv-erfassen.png?version=1&api=v2",
+      "version": {
+        "number": 1,
+        "message": "",
+        "minorEdit": false,
+        "authorId": "712020:adb52172-41fb-4266-a03e-44a71b447d89",
+        "createdAt": "2026-04-22T08:41:00.000Z"
+      },
+      "_links": {
+        "download": "/download/attachments/393281644/kv-erfassen.png?version=1&api=v2",
+        "webui": "/pages/viewpageattachments.action?pageId=393281644"
+      }
+    }
+  ],
+  "_links": {
+    "base": "https://musterhaus-software.atlassian.net/wiki"
+  }
+}

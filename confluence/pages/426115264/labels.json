@@ -1,0 +1,15 @@
+{
+  "results": [
+    {
+      "id": "2441480",
+      "name": "parametertabelle",
+      "prefix": "global"
+    },
+    {
+      "id": "2441481",
+      "name": "tourenplanung",
+      "prefix": "global"
+    }
+  ],
+  "_links": {}
+}

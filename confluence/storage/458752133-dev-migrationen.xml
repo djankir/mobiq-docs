@@ -1,0 +1,50 @@
+<!-- MOBIQDEV / Migrationen 26.x (Version 6) -->
+<p>Migrationen liegen unter <code>db/migration</code> und laufen beim Update automatisch in Versionsreihenfolge (Flyway).</p>
+<table data-layout="default">
+<colgroup>
+<col />
+<col />
+<col />
+</colgroup>
+<tbody>
+<tr>
+<th>
+<p>
+<strong>Version</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Inhalt</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Laufzeit bei 1 Mio. Positionen</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>V26_3_004</p>
+</td>
+<td>
+<p>Index auf kv_position.artikel_nr</p>
+</td>
+<td>
+<p>ca. 2 min</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>V26_3_009</p>
+</td>
+<td>
+<p>Spalte kaufvertrag.finanzkauf</p>
+</td>
+<td>
+<p>unter 1 min</p>
+</td>
+</tr>
+</tbody>
+</table>

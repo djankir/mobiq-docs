@@ -1,0 +1,86 @@
+<!-- MOBIQDEV / Schnittstelle ERP → Finanzbuchhaltung (Version 11) -->
+<h2>2 Exportformat der Buchungssätze</h2>
+<p>Der Export schreibt je Beleg einen Satz in die Tabelle <code>fibu_export</code>. Die Finanzbuchhaltung liest sie nachts über den Dienst fibu-import.</p>
+<table data-layout="default">
+<colgroup>
+<col />
+<col />
+<col />
+</colgroup>
+<tbody>
+<tr>
+<th>
+<p>
+<strong>Feld</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Typ</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Beschreibung</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>belegart</p>
+</td>
+<td>
+<p>char(2)</p>
+</td>
+<td>
+<p>RE = Rechnung, GS = Gutschrift, AZ = Anzahlung</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>belegnr</p>
+</td>
+<td>
+<p>varchar(20)</p>
+</td>
+<td>
+<p>Fortlaufend je Mandant</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kv_nr</p>
+</td>
+<td>
+<p>varchar(12)</p>
+</td>
+<td>
+<p>Kaufvertragsnummer, für die Zuordnung offener Posten</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>betrag_brutto</p>
+</td>
+<td>
+<p>numeric(12,2)</p>
+</td>
+<td>
+<p>Bruttobetrag des Belegs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>steuerschluessel</p>
+</td>
+<td>
+<p>smallint</p>
+</td>
+<td>
+<p>Steuerschlüssel der Finanzbuchhaltung</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>3 Verrechnung von Anzahlungen</h2>
+<p>Mit der Schlussrechnung wird die Anzahlung vollständig verrechnet (Feld <code>az_betrag</code> des Kaufvertrags).</p>

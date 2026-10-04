@@ -1,0 +1,76 @@
+<!-- MOBIQFB / Kasse – Zahlung (Version 3) -->
+<p>Erscheint nach „Bezahlen“ an der Kasse.</p>
+<table data-layout="default">
+<colgroup>
+<col />
+<col />
+<col />
+<col />
+</colgroup>
+<tbody>
+<tr>
+<th>
+<p>
+<strong>Feld</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Typ</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Pflicht</strong>
+</p>
+</th>
+<th>
+<p>
+<strong>Beschreibung</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>Zahlart</p>
+</td>
+<td>
+<p>Auswahl</p>
+</td>
+<td>
+<p>ja</p>
+</td>
+<td>
+<p>Bar, Karte, Gutschein, Finanzkauf</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gutschein</p>
+</td>
+<td>
+<p>Scan / Nummer</p>
+</td>
+<td>
+<p>nein</p>
+</td>
+<td>
+<p>Nur bei Zahlart Gutschein</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Offener Betrag</p>
+</td>
+<td>
+<p>Anzeige</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Restbetrag des Bons nach dieser Zahlung</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,87 @@
+{
+  "results": [
+    {
+      "id": "65538",
+      "key": "MOBIQHB",
+      "name": "MOBIQ Anwenderhandbuch",
+      "type": "global",
+      "status": "current",
+      "authorId": "712020:adb52172-41fb-4266-a03e-44a71b447d89",
+      "createdAt": "2024-09-16T08:00:00.000Z",
+      "homepageId": "393281537",
+      "description": {
+        "plain": {
+          "value": "Handbuch für Verkauf, Disposition, Kasse und Buchhaltung. Wird als PDF mit jeder Version ausgeliefert.",
+          "representation": "plain"
+        }
+      },
+      "icon": null,
+      "_links": {
+        "webui": "/spaces/MOBIQHB"
+      }
+    },
+    {
+      "id": "65539",
+      "key": "MOBIQFB",
+      "name": "MOBIQ Fachberatung",
+      "type": "global",
+      "status": "current",
+      "authorId": "712020:56be0099-1df7-421a-a9c9-a6c60faeacb5",
+      "createdAt": "2024-09-16T08:00:00.000Z",
+      "homepageId": "426115073",
+      "description": {
+        "plain": {
+          "value": "Dialogbeschreibungen und Parametertabellen für Fachberatung, Support und Schulung.",
+          "representation": "plain"
+        }
+      },
+      "icon": null,
+      "_links": {
+        "webui": "/spaces/MOBIQFB"
+      }
+    },
+    {
+      "id": "65540",
+      "key": "MOBIQDEV",
+      "name": "MOBIQ Entwicklung",
+      "type": "global",
+      "status": "current",
+      "authorId": "712020:700ae56e-db50-406c-a905-d6e328015929",
+      "createdAt": "2024-09-16T08:00:00.000Z",
+      "homepageId": "458752001",
+      "description": {
+        "plain": {
+          "value": "Architektur, Schnittstellen, Datenmodell. Für Entwicklung, Support und Partner.",
+          "representation": "plain"
+        }
+      },
+      "icon": null,
+      "_links": {
+        "webui": "/spaces/MOBIQDEV"
+      }
+    },
+    {
+      "id": "65541",
+      "key": "MOBIQOPS",
+      "name": "MOBIQ Betrieb",
+      "type": "global",
+      "status": "current",
+      "authorId": "712020:bd5470a1-7f67-40ca-ad6d-0db0edc54dc9",
+      "createdAt": "2024-09-16T08:00:00.000Z",
+      "homepageId": "491520001",
+      "description": {
+        "plain": {
+          "value": "Installation, Update und Betrieb beim Kunden und in der Cloud.",
+          "representation": "plain"
+        }
+      },
+      "icon": null,
+      "_links": {
+        "webui": "/spaces/MOBIQOPS"
+      }
+    }
+  ],
+  "_links": {
+    "base": "https://musterhaus-software.atlassian.net/wiki"
+  }
+}

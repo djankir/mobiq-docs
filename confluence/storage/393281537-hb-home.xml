@@ -1,0 +1,11 @@
+<!-- MOBIQHB / MOBIQ Anwenderhandbuch (Version 12) -->
+<ac:structured-macro ac:name="info" ac:schema-version="1" ac:macro-id="a1b2c3d4-0001-4e5f-9a0b-000001007919">
+<ac:parameter ac:name="title">Version</ac:parameter>
+<ac:rich-text-body>
+<p>Dieses Handbuch beschreibt MOBIQ in der Version 26.3.</p>
+</ac:rich-text-body>
+</ac:structured-macro>
+<p>Wählen Sie ein Kapitel:</p>
+<ac:structured-macro ac:name="children" ac:schema-version="1" ac:macro-id="a1b2c3d4-0002-4e5f-9a0b-000001015838">
+<ac:parameter ac:name="all">true</ac:parameter>
+</ac:structured-macro>

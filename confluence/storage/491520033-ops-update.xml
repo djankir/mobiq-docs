@@ -1,0 +1,12 @@
+<!-- MOBIQOPS / Installations- und Updatehandbuch (Version 10) -->
+<h2>4 Update auf eine neue Version</h2>
+<ol>
+<li>Sichern Sie die Datenbank.</li>
+<li>Stoppen Sie die Dienste mobiq-app und mobiq-druck.</li>
+<li>Führen Sie das Update-Paket aus. Migrationen laufen automatisch.</li>
+<li>Starten Sie die Dienste und prüfen Sie das Protokoll.</li>
+</ol>
+<h2>4.2 Nach dem Update</h2>
+<p>Prüfen Sie unter Administration › Systemstatus, ob alle Dienste laufen. In der Cloud übernimmt das der Betrieb.</p>
+<h2>5 Systemanforderungen</h2>
+<p>Datenbank: PostgreSQL 15 oder neuer. Anwendungsserver: 4 Kerne und 16 GB Arbeitsspeicher je 50 gleichzeitige Anwender.</p>

@@ -1,0 +1,16 @@
+<!-- MOBIQHB / 3 Lieferung und Montage (Version 14) -->
+<p>Im Register <strong>Lieferung</strong> legen Sie fest, wann und wie die Ware zum Kunden kommt. Die Disposition sieht den Kaufvertrag erst, wenn er auf „Lieferbereit“ steht und keine Liefersperre gesetzt ist.</p>
+<ac:image ac:align="center" ac:layout="center" ac:width="760">
+<ri:attachment ri:filename="register-lieferung.png" />
+</ac:image>
+<h2>3.1 Liefertermin vereinbaren</h2>
+<p>Wählen Sie im Feld „Wunschtermin“ eine Kalenderwoche. MOBIQ prüft, ob alle Positionen bis dahin im Lager sein können, und zeigt den frühesten möglichen Termin an.</p>
+<h2>3.2 Lieferbereitschaft</h2>
+<p>Ein Kaufvertrag wird immer vollständig ausgeliefert. Er steht erst auf „Lieferbereit“, wenn alle Positionen im Lager eingegangen sind.</p>
+<ac:structured-macro ac:name="note" ac:schema-version="1" ac:macro-id="a1b2c3d4-0004-4e5f-9a0b-000001031676">
+<ac:rich-text-body>
+<p>Soll ein lieferbereiter Kaufvertrag noch nicht disponiert werden, setzen Sie die <strong>Liefersperre</strong>. Sie heben sie im selben Register wieder auf.</p>
+</ac:rich-text-body>
+</ac:structured-macro>
+<h2>3.3 Montage beauftragen</h2>
+<p>Positionen mit Montageleistung werden automatisch an die Montageplanung übergeben. Die Monteure sehen den Auftrag in der Montage-App.</p>

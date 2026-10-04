@@ -1,0 +1,15 @@
+{
+  "results": [
+    {
+      "id": "2441265",
+      "name": "anwenderhandbuch",
+      "prefix": "global"
+    },
+    {
+      "id": "2441266",
+      "name": "tourenplanung",
+      "prefix": "global"
+    }
+  ],
+  "_links": {}
+}

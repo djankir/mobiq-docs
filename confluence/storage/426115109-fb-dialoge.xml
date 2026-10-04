@@ -1,0 +1,5 @@
+<!-- MOBIQFB / Dialogbeschreibungen (Version 2) -->
+<p>Jeder Dialog mit allen Feldern, Pflichtangaben und Abhängigkeiten.</p>
+<ac:structured-macro ac:name="children" ac:schema-version="1" ac:macro-id="a1b2c3d4-0008-4e5f-9a0b-000001063352">
+<ac:parameter ac:name="all">true</ac:parameter>
+</ac:structured-macro>

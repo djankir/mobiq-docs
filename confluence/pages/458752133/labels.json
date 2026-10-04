@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "id": "2441349",
+      "name": "technische-doku",
+      "prefix": "global"
+    },
+    {
+      "id": "2441350",
+      "name": "datenmodell",
+      "prefix": "global"
+    },
+    {
+      "id": "2441351",
+      "name": "migration",
+      "prefix": "global"
+    }
+  ],
+  "_links": {}
+}
