@@ -10,3 +10,7 @@ Die Produktdokumentation des erfundenen ERP-Herstellers MOBIQ (Musterhaus Softwa
 Teil des Evaluationsdatensatzes: Code in `mobiq-code`, Datenbank in `mobiq-db`, Generator, Tickets und Lösung in `mobiq`. Nicht von Hand ändern, sondern im Repository `mobiq` neu erzeugen (`node generate.mjs && node publish.mjs`).
 
 Alle Firmen, Personen und Inhalte sind erfunden.
+
+## Lizenz
+
+MIT, siehe [LICENSE](LICENSE). Gilt für den gesamten MOBIQ-Datensatz.
