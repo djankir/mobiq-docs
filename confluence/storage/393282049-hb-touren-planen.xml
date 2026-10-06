@@ -3,7 +3,7 @@
 <ac:image ac:align="center" ac:layout="center" ac:width="760">
 <ri:attachment ri:filename="tourenplanung-karte.png" />
 </ac:image>
-<p>Ein Kaufvertrag ist immer genau ein Stopp auf einer Tour. Kaufverträge mit gesetzter Liefersperre erscheinen nicht in „Offene Lieferungen“.</p>
+<p>Ein Kaufvertrag ergibt einen Stopp, bei Teillieferung einen Stopp je lieferbereitem Teil. Kaufverträge mit gesetzter Liefersperre erscheinen nicht in „Offene Lieferungen“.</p>
 <h2>2.3 Montage einplanen</h2>
 <p>Enthält ein Stopp eine Montageposition, plant MOBIQ automatisch einen Monteur und die Montagezeit mit ein. Den Puffer je Montage legt Ihr Administrator fest.</p>
 <h2>2.4 Ladevolumen</h2>

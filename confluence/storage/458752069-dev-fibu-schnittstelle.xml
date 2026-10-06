@@ -33,7 +33,7 @@
 <p>char(2)</p>
 </td>
 <td>
-<p>RE = Rechnung, GS = Gutschrift, AZ = Anzahlung</p>
+<p>RE = Rechnung, GS = Gutschrift, AZ = Anzahlung, TR = Teilrechnung</p>
 </td>
 </tr>
 <tr>
