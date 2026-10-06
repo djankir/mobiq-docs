@@ -33,7 +33,7 @@
 <p>char(2)</p>
 </td>
 <td>
-<p>RE = Rechnung, GS = Gutschrift, AZ = Anzahlung</p>
+<p>RE = Rechnung, GS = Gutschrift, AZ = Anzahlung, TR = Teilrechnung</p>
 </td>
 </tr>
 <tr>
@@ -83,4 +83,4 @@
 </tbody>
 </table>
 <h2>3 Verrechnung von Anzahlungen</h2>
-<p>Mit der Schlussrechnung wird die Anzahlung vollständig verrechnet (Feld <code>az_betrag</code> des Kaufvertrags).</p>
+<p>Mit der Schlussrechnung wird die Anzahlung vollständig verrechnet (Feld <code>anzahlung</code> des Kaufvertrags).</p>
