@@ -7,4 +7,4 @@
 <h2>2.3 Montage einplanen</h2>
 <p>Enthält ein Stopp eine Montageposition, plant MOBIQ automatisch einen Monteur und die Montagezeit mit ein. Den Puffer je Montage legt Ihr Administrator fest.</p>
 <h2>2.4 Ladevolumen</h2>
-<p>MOBIQ summiert das Volumen aller Stopps einer Tour und zeigt es in der Kopfzeile der Tour an.</p>
+<p>MOBIQ summiert das Volumen aller Stopps einer Tour und zeigt es zusammen mit dem Ladevolumen des Fahrzeugs in der Kopfzeile der Tour an.</p>
